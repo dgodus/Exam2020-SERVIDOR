@@ -1,10 +1,14 @@
-Información general:
-* Creado por: Erick Navarro
-* Blog: e-navarro.blogspot.com
-* Medium: https://medium.com/@ericknavarro
-* Octubre - 2015
+/******************************************
+ * Ejemplo desarrollado por Godofredo Quea *
+ * Blog: godus.ql@gmail.com         *
+ * mayo - 2020                       *
+ ******************************************/
 
-Herramientas utilizadas:
-* JAVA (Lenguaje de programación) (Java(TM) SE Runtime Environment (build 1.8.0_05-b13))
-* Netbeans 8.0 (IDE)
-* Ubuntu 14.04 LTS (Sistema operativo)
+#############        NOTAS IMPORTANTES        #############
+
+Este proyecto fue desarrollado con:
+
+* JAVA						    (Lenguaje de programación)
+                            (Java(TM) SE Runtime Environment (build 1.8.0_05-b13))
+* Netbeans 8.0              (IDE)
+* Visiten mi canal EN YOUTUBE : GODUS TEC
